@@ -1,2 +1,2 @@
-# RO2
+# RO- membrane
 
