@@ -44,7 +44,7 @@ import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';
 
 			// Load the 3D model using the GLTFLoader
 			const loader = new GLTFLoader();
-			loader.load( 'assets/ro2.glb', function(gltf) {
+			loader.load( 'assets/cst.glb', function(gltf) {
 				const model = gltf.scene;
 				modelInstances.push(model);
 			
